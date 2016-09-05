@@ -5,7 +5,7 @@
     + [x] [Configure Timeout](DOC/02.httpclient-timeout.md)
     + [x] [Cancel/Abort a Request](DOC/03.httpclient-cancel-request.md)
     + [x] [Do Not Follow Redirects](DOC/04.httpclient-stop-follow-redirect.md)
-    + [x] [Set Custom Header](DOC/)
+    + [x] [Set Custom Header](DOC/05.httpclient-custom-http-header.md)
     + [x] [HttpClient 4 Cookbook](DOC/)
     + [x] [Posting with HttpClient](DOC/)
 + HttpClient 高级用法
