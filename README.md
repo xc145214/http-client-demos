@@ -6,7 +6,7 @@
     + [x] [Cancel/Abort a Request](DOC/03.httpclient-cancel-request.md)
     + [x] [Do Not Follow Redirects](DOC/04.httpclient-stop-follow-redirect.md)
     + [x] [Set Custom Header](DOC/05.httpclient-custom-http-header.md)
-    + [x] [HttpClient 4 Cookbook](DOC/)
+    + [x] [HttpClient 4 Cookbook](DOC/06.Cookbook.md)
     + [x] [Posting with HttpClient](DOC/)
 + HttpClient 高级用法
     + [x] [Configure SSL](DOC/)   
