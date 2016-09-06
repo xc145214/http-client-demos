@@ -30,7 +30,7 @@ public class HttpCustomHeader {
     }
 
     @Test
-    public void setHeadeOnClient() throws Exception {
+    public void setHeaderOnClient() throws Exception {
         Header header = new BasicHeader(HttpHeaders.CONTENT_TYPE, "application/json");
         List<Header> headers = Lists.newArrayList(header);
         HttpClient client = HttpClients.custom().setDefaultHeaders(headers).build();
