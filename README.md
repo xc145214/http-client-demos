@@ -9,10 +9,10 @@
     + [x] [HttpClient 4 Cookbook](DOC/06.Cookbook.md)
     + [x] [Posting with HttpClient](DOC/07.httpclient-post-http-request.md)
 + HttpClient 高级用法
-    + [x] [Configure SSL](DOC/)   
-    + [x] [Send a Custom Cookie](DOC/)   
-    + [x] [Follow Redirects for POST Requests](DOC/)   
-    + [x] [HttpClient Basic Authentication](DOC/)   
-    + [x] [Multipart Upload](DOC/)   
-    + [x] [HttpAsyncClient Tutorial](DOC/)   
+    + [ ] [Configure SSL](DOC/)   
+    + [ ] [Send a Custom Cookie](DOC/)   
+    + [ ] [Follow Redirects for POST Requests](DOC/)   
+    + [ ] [HttpClient Basic Authentication](DOC/)   
+    + [ ] [Multipart Upload](DOC/)   
+    + [ ] [HttpAsyncClient Tutorial](DOC/)   
 
